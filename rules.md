@@ -63,13 +63,15 @@ The below are guidelines for reference, and it is highly recommended not to stra
 
 CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copypaste spam IC) are not acceptable. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died or fled the ship in the past. Follow the Roleplay Standards.
 
-Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room.), are not tolerated.
-
 ## Human Roleplay Standards
 
 ### Dropship Arrests & Riots 
 
 - Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise. 
+
+### Major Shenanigans
+
+- Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room, pushing someone out of the dropship during flight.), are not tolerated.
 
 ### Sanity
 
@@ -103,14 +105,14 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the [Synthetic Programming and Guidelines](https://forum.cm-ss13.com/t/synthetic-programming-and-guidelines). 
 - Synthetic Survivors have altered Programming which can also be found there. 
-- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
+- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on Discord or through Player Reports.
 
 ### Survivors
 
-- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
+- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the Xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. This is not reason enough for Survivors to ignore Rule 10.
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
-- Survivors should not be rushing to attack the hive before the roundstart xenos have had a chance to evolve.
+- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve. Xenomorphs can evolve after approximately one minute from roundstart.
  
 ### Command
 
@@ -128,6 +130,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Language
 
 - Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
+   - Using non-standard unicode is forbidden, this extends to the use of emojis,  😀, 😺, 💥 and all other forms are disallowed, this extends to text emojis such as :), :(, :D, xD regardless if done through /me, through announcements or as a label on an object.
 
 ### Aliens & Predators
 
@@ -188,7 +191,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 The general behavioural expectations for members of the community. Unless explicitly stated these rules apply to all areas of the community.
 - Don't be a dick.
 - Don't joke about OOC threats or make any threats in that respect.
-- Use common sense to determine if something is acceptable or not, if unsure ahelp or ask in #staff-help channel on discord.
+- Use common sense to determine if something is acceptable or not, if unsure ahelp or ask in #staff-help channel on Discord.
 - This is not a complete list and only includes the most important elements.
 
 ## English Only
